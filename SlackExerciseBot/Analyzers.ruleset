@@ -105,6 +105,7 @@
     <Rule Id="SA1633" Action="None" />
     <Rule Id="SA1642" Action="Error" />
     <Rule Id="SA1643" Action="Error" />
+    <Rule Id="SA1652" Action="None" />
   </Rules>
   <Rules AnalyzerId="Trov.Analyzers" RuleNamespace="Trov.Analyzers">
     <Rule Id="TS0001" Action="Error" />
